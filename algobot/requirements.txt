@@ -1,0 +1,14 @@
+certifi==2021.10.8
+charset-normalizer==2.0.12
+idna==3.3
+requests==2.27.1
+urllib3==1.26.8
+pip==22.0.3
+attrs~=21.4.0
+wheel==0.37.1
+py~=1.11.0
+six~=1.16.0
+setuptools==60.9.3
+twilio~=7.7.0
+python-dotenv~=0.19.2
+pandas~=1.4.1
